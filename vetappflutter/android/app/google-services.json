@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "843523662200",
+    "firebase_url": "https://vet-project-7212c-default-rtdb.firebaseio.com",
+    "project_id": "vet-project-7212c",
+    "storage_bucket": "vet-project-7212c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843523662200:android:799a2f267621ddcba8a88d",
+        "android_client_info": {
+          "package_name": "com.example.vetappflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbpvtrIYmSbg49Vpdox-6icllNZXqM6Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843523662200:android:97465605f54a003ca8a88d",
+        "android_client_info": {
+          "package_name": "mx.tec.vet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbpvtrIYmSbg49Vpdox-6icllNZXqM6Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
